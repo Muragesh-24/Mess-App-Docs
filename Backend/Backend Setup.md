@@ -1,5 +1,5 @@
 ---
-title: Backend Setup
+title: Setup
 parent: Backend
 layout: default
 
